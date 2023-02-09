@@ -7,10 +7,5 @@
       "email": "gtatterton0@ehow.com"
     }
   ],
-    "cart": [
-    {
-      "id": 1,
-      "name": "Gertrudis Tatterton"
-    }
-  ]
+    "cart": []
 }
