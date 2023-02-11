@@ -8,7 +8,7 @@
       "password":"deepak"
     }
   ],
-  "data": [
+  "blogs": [
     {
       "id" : 1,
       "username": "Deepak",
